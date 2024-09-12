@@ -36,9 +36,15 @@ $ git clone https://github.com/shineni1031/restaurantList.git
 $ cd restaurantList
 ```
 3. 安裝套件
-    $ npm i express
-    $ npm install -g nodemon
-    $ npm install express-handlebars
+```
+$ npm i express
+```
+```
+$ npm install -g nodemon
+```
+```
+$ npm install express-handlebars
+```
 4. 使用nodemon
 ```
 $ nodemon app.js
